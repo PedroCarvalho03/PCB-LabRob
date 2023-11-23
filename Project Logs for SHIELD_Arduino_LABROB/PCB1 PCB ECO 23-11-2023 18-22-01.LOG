@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=5V Pin=A?-5V
+Removed Pin From Net: NetName=Poten Pin=A?-A0
+Removed Pin From Net: NetName=Led_Bot Pin=A?-D0
+Removed Pin From Net: NetName=Led_Joy Pin=A?-D1
+Removed Pin From Net: NetName=Bot_Stop Pin=A?-D4
+Removed Pin From Net: NetName=Bot_Esq Pin=A?-D5
+Removed Pin From Net: NetName=Dir Pin=A?-D6
+Removed Pin From Net: NetName=Bot_Modo Pin=A?-D7
+Removed Pin From Net: NetName=Bot_Dir Pin=A?-D8
+Removed Pin From Net: NetName=Step Pin=A?-D9
+Removed Pin From Net: NetName=Bot_Fc1 Pin=A?-D10
+Removed Pin From Net: NetName=EN Pin=A?-D11
+Removed Pin From Net: NetName=Bot_Fc2 Pin=A?-D12
+Removed Pin From Net: NetName=GND Pin=A?-GND_1
+Removed Pin From Net: NetName=GND Pin=A?-GND_2
+Removed Pin From Net: NetName=9V Pin=A?-VIN
+Removed Member From Class: ClassName=Sheet1 Member=A?
+Added Component: Designator=S?(SHIELD_ARDUINO)
+Added Pin To Net: NetName=Led_Bot Pin=S?-2
+Added Pin To Net: NetName=Led_Joy Pin=S?-3
+Added Pin To Net: NetName=Bot_Stop Pin=S?-4
+Added Pin To Net: NetName=Bot_Esq Pin=S?-5
+Added Pin To Net: NetName=5V Pin=S?-5V
+Added Pin To Net: NetName=Dir Pin=S?-6
+Added Pin To Net: NetName=Bot_Modo Pin=S?-7
+Added Pin To Net: NetName=Bot_Dir Pin=S?-8
+Added Pin To Net: NetName=Step Pin=S?-9
+Added Pin To Net: NetName=Bot_Fc1 Pin=S?-10
+Added Pin To Net: NetName=EN Pin=S?-11
+Added Pin To Net: NetName=Bot_Fc2 Pin=S?-12
+Added Pin To Net: NetName=Poten Pin=S?-A0
+Added Pin To Net: NetName=GND Pin=S?-GND
+Added Pin To Net: NetName=GND Pin=S?-GND
+Added Pin To Net: NetName=GND Pin=S?-GND
+Added Pin To Net: NetName=9V Pin=S?-VIN
+Change Class Name : Old Net Name=Sheet1 New Net Name=PCB-LabRoc
+Added Member To Class: ClassName=PCB-LabRoc Member=Component R7 Res1
+Added Member To Class: ClassName=PCB-LabRoc Member=Component R9 Res1
+Added Member To Class: ClassName=PCB-LabRoc Member=Component S? SHIELD_ARDUINO_UNO
+Added Room: Name=PCB-LabRoc

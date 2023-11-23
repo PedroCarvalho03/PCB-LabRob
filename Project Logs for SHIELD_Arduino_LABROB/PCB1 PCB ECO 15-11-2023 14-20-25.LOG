@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=Poten Pin=A?-A0
+Removed Pin From Net: NetName=Led_Bot Pin=A?-D0
+Removed Pin From Net: NetName=Led_Joy Pin=A?-D1
+Removed Pin From Net: NetName=Bot_Stop Pin=A?-D4
+Removed Pin From Net: NetName=Bot_Esq Pin=A?-D5
+Removed Pin From Net: NetName=Dir Pin=A?-D6
+Removed Pin From Net: NetName=Bot_Modo Pin=A?-D7
+Removed Pin From Net: NetName=Bot_Dir Pin=A?-D8
+Removed Pin From Net: NetName=Step Pin=A?-D9
+Removed Pin From Net: NetName=Bot_Fc1 Pin=A?-D10
+Removed Pin From Net: NetName=EN Pin=A?-D11
+Removed Pin From Net: NetName=Bot_Fc2 Pin=A?-D12
+Change Component Designator: OldDesignator=R6 NewDesignator=R5
+Change Component Designator: OldDesignator=R7 NewDesignator=R6
+Change Component Designator: OldDesignator=R8 NewDesignator=R7
+Change Component Designator: OldDesignator=R9 NewDesignator=R8
+Change Component Designator: OldDesignator=R10 NewDesignator=R9
+Added Pin To Net: NetName=Poten Pin=A?-A0
+Added Pin To Net: NetName=Led_Bot Pin=A?-D0
+Added Pin To Net: NetName=Led_Joy Pin=A?-D1
+Added Pin To Net: NetName=Bot_Stop Pin=A?-D4
+Added Pin To Net: NetName=Bot_Esq Pin=A?-D5
+Added Pin To Net: NetName=Dir Pin=A?-D6
+Added Pin To Net: NetName=Bot_Modo Pin=A?-D7
+Added Pin To Net: NetName=Bot_Dir Pin=A?-D8
+Added Pin To Net: NetName=Step Pin=A?-D9
+Added Pin To Net: NetName=Bot_Fc1 Pin=A?-D10
+Added Pin To Net: NetName=EN Pin=A?-D11
+Added Pin To Net: NetName=Bot_Fc2 Pin=A?-D12
+Added Member To Class: ClassName=Sheet1 Member=Component A? A000066
+Added Member To Class: ClassName=Sheet1 Member=Component A? A000066
+Added Member To Class: ClassName=Sheet1 Member=Component A? A000066
+Added Room: Name=Sheet1
