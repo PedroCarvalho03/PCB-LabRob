@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Bot_Modo Pin=S?-7
+Added Pin To Net: NetName=Bot_Modo Pin=S?-13
+Added Member To Class: ClassName=PCB-LabRoc Member=Component BOT_DIR Header 2
+Added Room: Name=PCB-LabRoc
