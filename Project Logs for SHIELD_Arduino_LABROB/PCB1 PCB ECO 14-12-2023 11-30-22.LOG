@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=BOT_FC2-1
+Removed Pin From Net: NetName=5V Pin=R6-2
+Removed Member From Class: ClassName=PCB-LabRoc Member=BOT_FC2
+Removed Member From Class: ClassName=PCB-LabRoc Member=R6
+Change Component Designator: OldDesignator= NewDesignator=S?
+Change Component Designator: OldDesignator=LED_BOTOEIRA NewDesignator=LED_FRENTE
+Change Component Designator: OldDesignator=LED_JOYSTICK NewDesignator=LED_RÉ
+Added Component: Designator=FAN(HDR1X2)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=FAN-1
+Added Pin To Net: NetName=5V Pin=FAN-2
+Change Net Name : Old Net Name=Led_Bot New Net Name=Led_Frente
+Change Net Name : Old Net Name=Led_Joy New Net Name=Led_Ré
+Change Net Name : Old Net Name=NetLED_BOTOEIRA_1 New Net Name=NetLED_FRENTE_1
+Change Net Name : Old Net Name=NetLED_JOYSTICK_1 New Net Name=NetLED_RÉ_1
+Added Member To Class: ClassName=PCB-LabRoc Member=Component BOT_DIR Header 2
+Added Member To Class: ClassName=PCB-LabRoc Member=Component FAN Header 2
+Added Member To Class: ClassName=PCB-LabRoc Member=Component S? SHIELD_ARDUINO_UNO
+Added Room: Name=PCB-LabRoc
