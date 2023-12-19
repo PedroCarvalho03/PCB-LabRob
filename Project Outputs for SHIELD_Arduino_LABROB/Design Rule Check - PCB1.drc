@@ -1,9 +1,9 @@
 Protel Design System Design Rule Check
 PCB File : C:\Users\pedri\OneDrive\Documentos\PCB-LabRob\PCB-LabRob\Library\PCB1.PcbDoc
-Date     : 17/12/2023
-Time     : 16:39:43
+Date     : 19/12/2023
+Time     : 20:00:21
 
-Processing Rule : Clearance Constraint (Gap=11.811mil) (All),(All)
+Processing Rule : Clearance Constraint (Gap=0.3mm) (All),(All)
 Rule Violations :0
 
 Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
@@ -15,63 +15,34 @@ Rule Violations :0
 Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
 Rule Violations :0
 
-Processing Rule : Width Constraint (Min=10mil) (Max=23.622mil) (Preferred=10mil) (All)
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.6mm) (Preferred=0.254mm) (All)
 Rule Violations :0
 
-Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=20mil) (Conductor Width=10mil) (Air Gap=10mil) (Entries=4) (All)
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
 Rule Violations :0
 
-Processing Rule : Hole Size Constraint (Min=1mil) (Max=100mil) (All)
+Processing Rule : Hole Size Constraint (Min=0.15mm) (Max=2.54mm) (All)
 Rule Violations :0
 
-Processing Rule : Hole To Hole Clearance (Gap=10mil) (All),(All)
+Processing Rule : Hole To Hole Clearance (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Minimum Solder Mask Sliver (Gap=10mil) (All),(All)
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.254mm) (All),(All)
 Rule Violations :0
 
-Processing Rule : Silk To Solder Mask (Clearance=10mil) (IsPad),(All)
-   Violation between Silk To Solder Mask Clearance Constraint: (8.747mil < 10mil) Between Pad -12(1983.386mil,1320.63mil) on Multi-Layer And Text "R3" (2079.992mil,1305.005mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [8.747mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.644mil < 10mil) Between Pad R1-1(2125mil,695mil) on Multi-Layer And Track (2125mil,645mil)(2125mil,654mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.644mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.644mil < 10mil) Between Pad R1-2(2125mil,395mil) on Multi-Layer And Track (2125mil,436mil)(2125mil,445mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.644mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.787mil < 10mil) Between Pad R2-1(1810mil,270mil) on Multi-Layer And Track (1760mil,270mil)(1769mil,270mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.787mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.692mil < 10mil) Between Pad R2-2(1510mil,270mil) on Multi-Layer And Track (1551mil,270mil)(1560mil,270mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.692mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.644mil < 10mil) Between Pad R3-1(2125mil,1460mil) on Multi-Layer And Track (2125mil,1410mil)(2125mil,1419mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.644mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.644mil < 10mil) Between Pad R3-2(2125mil,1160mil) on Multi-Layer And Track (2125mil,1201mil)(2125mil,1210mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.644mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.692mil < 10mil) Between Pad R4-1(1510mil,1400mil) on Multi-Layer And Track (1551mil,1400mil)(1560mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.692mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.787mil < 10mil) Between Pad R4-2(1810mil,1400mil) on Multi-Layer And Track (1760mil,1400mil)(1769mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.787mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.787mil < 10mil) Between Pad R5-1(630mil,270mil) on Multi-Layer And Track (580mil,270mil)(589mil,270mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.787mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.692mil < 10mil) Between Pad R5-2(330mil,270mil) on Multi-Layer And Track (371mil,270mil)(380mil,270mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.692mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.692mil < 10mil) Between Pad R7-1(190mil,1400mil) on Multi-Layer And Track (231mil,1400mil)(240mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.692mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.787mil < 10mil) Between Pad R7-2(490mil,1400mil) on Multi-Layer And Track (440mil,1400mil)(449mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.787mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.692mil < 10mil) Between Pad R8-1(1005mil,1400mil) on Multi-Layer And Track (1046mil,1400mil)(1055mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.692mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.787mil < 10mil) Between Pad R8-2(1305mil,1400mil) on Multi-Layer And Track (1255mil,1400mil)(1264mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.787mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.692mil < 10mil) Between Pad R9-1(595mil,1400mil) on Multi-Layer And Track (636mil,1400mil)(645mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.692mil]
-   Violation between Silk To Solder Mask Clearance Constraint: (9.787mil < 10mil) Between Pad R9-2(895mil,1400mil) on Multi-Layer And Track (845mil,1400mil)(854mil,1400mil) on Bottom Overlay [Bottom Overlay] to [Bottom Solder] clearance [9.787mil]
-Rule Violations :17
-
-Processing Rule : Silk to Silk (Clearance=10mil) (All),(All)
-   Violation between Silk To Silk Clearance Constraint: (9.4mil < 10mil) Between Text "BOT_ESQ" (2058.355mil,66.669mil) on Top Overlay And Track (2075mil,105mil)(2175mil,105mil) on Top Overlay Silk Text to Silk Clearance [9.4mil]
-   Violation between Silk To Silk Clearance Constraint: (8.569mil < 10mil) Between Text "BOT_FC1" (310.031mil,152.504mil) on Top Overlay And Track (305mil,130mil)(605mil,130mil) on Top Overlay Silk Text to Silk Clearance [8.569mil]
-   Violation between Silk To Silk Clearance Constraint: (9.4mil < 10mil) Between Text "BOT_MODO" (1568.358mil,1641.669mil) on Top Overlay And Track (1480mil,1680mil)(1680mil,1680mil) on Top Overlay Silk Text to Silk Clearance [9.4mil]
-   Violation between Silk To Silk Clearance Constraint: (9.477mil < 10mil) Between Text "BOT_MODO" (1568.358mil,1641.669mil) on Top Overlay And Track (1680mil,1680mil)(1680mil,1780mil) on Top Overlay Silk Text to Silk Clearance [9.477mil]
-   Violation between Silk To Silk Clearance Constraint: (4.4mil < 10mil) Between Text "DRIVER_5V" (765.028mil,151.669mil) on Top Overlay And Track (755mil,135mil)(1055mil,135mil) on Top Overlay Silk Text to Silk Clearance [4.4mil]
-   Violation between Silk To Silk Clearance Constraint: (Collision < 10mil) Between Text "DRIVER_CONT" (1170.034mil,141.669mil) on Top Overlay And Track (1160mil,130mil)(1460mil,130mil) on Top Overlay Silk Text to Silk Clearance [0mil]
-   Violation between Silk To Silk Clearance Constraint: (6.453mil < 10mil) Between Text "DRIVER_CONT" (1170.034mil,141.669mil) on Top Overlay And Track (1160mil,30mil)(1160mil,130mil) on Top Overlay Silk Text to Silk Clearance [6.453mil]
-   Violation between Silk To Silk Clearance Constraint: (9.798mil < 10mil) Between Text "FAN" (2081.677mil,1757.504mil) on Top Overlay And Track (2075mil,1540mil)(2075mil,1740mil) on Top Overlay Silk Text to Silk Clearance [9.798mil]
-   Violation between Silk To Silk Clearance Constraint: (8.567mil < 10mil) Between Text "FAN" (2081.677mil,1757.504mil) on Top Overlay And Track (2075mil,1740mil)(2175mil,1740mil) on Top Overlay Silk Text to Silk Clearance [8.567mil]
-   Violation between Silk To Silk Clearance Constraint: (6.071mil < 10mil) Between Text "R2" (1655.005mil,315.008mil) on Bottom Overlay And Track (1560mil,300mil)(1760mil,300mil) on Bottom Overlay Silk Text to Silk Clearance [6.071mil]
-   Violation between Silk To Silk Clearance Constraint: (6.071mil < 10mil) Between Text "R3" (2079.992mil,1305.005mil) on Bottom Overlay And Track (2095mil,1210mil)(2095mil,1410mil) on Bottom Overlay Silk Text to Silk Clearance [6.071mil]
-   Violation between Silk To Silk Clearance Constraint: (6.071mil < 10mil) Between Text "R4" (1655.005mil,1445.008mil) on Bottom Overlay And Track (1560mil,1430mil)(1760mil,1430mil) on Bottom Overlay Silk Text to Silk Clearance [6.071mil]
-Rule Violations :12
-
-Processing Rule : Net Antennae (Tolerance=0mil) (All)
+Processing Rule : Silk To Solder Mask (Clearance=0.127mm) (IsPad),(All)
 Rule Violations :0
 
-Processing Rule : Height Constraint (Min=0mil) (Max=1000mil) (Prefered=500mil) (All)
+Processing Rule : Silk to Silk (Clearance=0.127mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (All)
 Rule Violations :0
 
 
-Violations Detected : 29
+Violations Detected : 0
 Waived Violations : 0
-Time Elapsed        : 00:00:02
+Time Elapsed        : 00:00:01
